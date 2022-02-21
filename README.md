@@ -1,1 +1,1 @@
-# Census
+This is a blockchain-based electronic voting system that demonstrates how a blockchain can be used to securely facilitate a voting process at a large scale with no downtime and expect fast results as the blocks are successfully added to the blockchain after consensus.
